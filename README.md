@@ -21,20 +21,5 @@ This isn't just about celebrating a date — it's a celebration of **growth, emo
 
 ---
 
-## 🖼️ Preview
 
-![Screenshot or GIF(assets/bdy.png) <!-- You can upload a screenshot or demo GIF here -->
 
----
-
-## 📁 Folder Structure
-
-```bash
-birthday-self-discovery/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── birthday-preview.gif
-└── README.md
